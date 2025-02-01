@@ -13,5 +13,6 @@ Data: 240K+ customer records.
 Pipeline: SQL → Python Processing → ML Model → AWS S3 → Power BI
 
 
+![alt text]([http://url/to/img.png](https://github.com/vivekschaurasia/customer-churn-analysis/blob/main/power_bi.png))
 
 
