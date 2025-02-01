@@ -1,4 +1,4 @@
-📌 Customer Churn Prediction using AWS, SQL, Python, and Power BI
+📌 Customer Churn Prediction using AWS, SQL, Python, and Power BI.
 🚀 Predicting customer churn for a subscription-based service using SQL, Python, Machine Learning, and Power BI. Automated with AWS Lambda & CloudWatch.
 
 🔹 Technologies Used
@@ -10,4 +10,8 @@
 🔹 Project Overview
 Goal: Identify customers likely to churn & provide actionable insights.
 Data: 240K+ customer records.
-Pipeline: SQL → Python Processing → ML Model → AWS S3 → Power BI.
+Pipeline: SQL → Python Processing → ML Model → AWS S3 → Power BI
+
+
+
+
